@@ -24,5 +24,16 @@ The analysis uses the Superstore Sales Dataset, which contains information about
 - A small number of products contribute disproportionately to total revenue, highlighting a Pareto (80/20) effect.
 - Overall sales show an upward trend over the years, suggesting consistent business growth.
 
+## Visualizations
+
+### Sales by Region
+![Sales by Region](sales_by_region.png)
+
+### Monthly Sales Trend
+![Monthly Sales Trend](monthly_sales_trend.png)
+
 ## Conclusion
 This project demonstrates end-to-end data analysis skills, including data cleaning, exploratory analysis, visualization, and business insight generation using Python.
+
+## Dataset Source
+Kaggle – Superstore Sales Dataset
